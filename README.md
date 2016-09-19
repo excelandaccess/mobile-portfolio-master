@@ -6,7 +6,7 @@
 
 ###Run the game
     Open the Index.html file in a browser and it will automatically start!
-    Or try here from github [here](https://github.com/excelandaccess/Project3_Arcade.git)
+    Or try here from github [here](https://github.com/excelandaccess/Project3_Arcade/index.html)
 ###Objective
     - Get the player from the grass knoll across the buggy traffic over to the water, while avoiding the moving bugs.
 
