@@ -29,6 +29,12 @@ Used http://www.minifier.org/ to minify css and js files
   * updated function __updatePositions__
     - changed querySelectorAll to getElementsByClassName
     - added transform
+  * updated function __determineDx__ & __changeSliderLabel__
+    - changed querySelector to getElementById
+  * updated function __changePizzaSizes__
+    - made var use array [0] because outside for loop
+    - made var outside of loop for pizza container
+
 
 6. __project-2048.html__, __project-mobile.html__, __project-webperf.html__
   * Inlined style.css since referenced just once
@@ -40,5 +46,8 @@ Used http://www.minifier.org/ to minify css and js files
 7. views\images\
   * minified picture files
 
-8. views\css\
+8. views\css\__style.css__
+  * added backface-visibility: hidden; to .mover
+
+9. views\css\
   * minified files
