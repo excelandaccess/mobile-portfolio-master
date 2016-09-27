@@ -53,9 +53,3 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
-
-####Updates: Code updates from release 1
-    JS
-    - updated updatePositions() in main.js
-    CSS
-    - Minified style and boostrap-grid files using http://www.minifier.org/
